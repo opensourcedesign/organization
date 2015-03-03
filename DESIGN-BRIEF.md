@@ -1,14 +1,13 @@
-Target Audience
+## Target Audience
 
+## Goals of the app/site
+#### short-term
+####long-term
 
-Goals of the app/site
-	short-term
-	long-term
+## Competitors
 
-Competitors
+#### What does this do better than competitors?
 
-What does this do better than competitors?
+## Design Needs
 
-Design Needs
-
-How to contribute
+## How to contribute
