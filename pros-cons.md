@@ -1,11 +1,5 @@
 # Pros & Cons
 
-The four main categories of funding are:
-
-- Crowdfunding
-- End User Purchases
-- Grants
-- Industry Partnerships
 
 This repo will grow to be something that discusses the pros & cons people in the FOSS space have encountered amongst the various funding options.
 
