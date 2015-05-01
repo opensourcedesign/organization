@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Yo Roy
-name: Yo Roy
+title: Roy Scholten
+name: Roy Scholten
 github: @yoroy
 url: http://www.yoroy.com
 tags: interaction designer
