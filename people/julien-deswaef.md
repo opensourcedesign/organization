@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Julien, digital artisan.
+title: Julien Deswaef, digital artisan.
 name: Julien Deswaef
 github: @xuv
 url: http://xuv.be
