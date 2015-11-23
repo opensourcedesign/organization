@@ -7,9 +7,9 @@ like
 
 - [Funding](#funding)
 - [People](#people)
-- [Community](#community)
 - [Contracts](#contracts)
 - [Bylines](#bylines)
+- [Community](#community)
 
 ---
 
@@ -47,18 +47,6 @@ Want to add yourself to this list? Do the following:
 * Send a pull request
 * Voila!
 
-<<<<<<< HEAD
----
-
-## Community
-
-- Github (here) - [admins](https://github.com/orgs/opensourcedesign/people?query=role%3Aowner+)
-- Twitter - [twitter.com/opensrcdesign](https://twitter.com/opensrcdesign) - admins @jancborchardt, @bnvk, @simonv3
-- Facebook - [facebook.com/opensrcdesign](https://facebook.com/opensrcdesign) - admins @razetime
-- Medium - [medium.com/open-source-design](https://medium.com/open-source-design) - admins @razetime, @plastelina, @rdbarlett
-- IRC - #opensourcedesign on freenode - admins @jancborchardt, @bnvk, @garthdb
-- Website - opensourcedesign.net - admin @jancborchardt
-
 ---
 
 ## Contracts
@@ -68,16 +56,17 @@ Want to add yourself to this list? Do the following:
 ## Bylines
 
 ...to be added...
-=======
-Community
-=========
+
+---
+
+## Community
 
 Our community is spread across various services and maintained by various people. If you've got any questions about those services, please reach out to those people who can help.
 
 * GitHub (here) - [Administrators](https://github.com/orgs/opensourcedesign/teams/core)
-* Twitter - (https://twitter.com/opensrcdesign) - administered by @jancborchardt.
-* Facebook - (https://www.facebook.com/opensrcdesign/) - administered by @razetime.
+* Twitter - (https://twitter.com/opensrcdesign) - administered by @jancborchardt, @bnvk, and @simonv3
+* Facebook - (https://www.facebook.com/opensrcdesign/) - administered by @razetime
 * Medium - (https://medium.com/open-source-design) - administered by @razetime, @plastelina, @rdbarlett
-* IRC - [#opensourcedesign on freenode](http://chat.opensourcedesign.net/) - administered by @jancborchardt, @bnvk, @garthdb
 * Website - opensourcedesign.net - administered by @jancborchardt.
->>>>>>> Add Community Details
+* IRC - [#opensourcedesign on freenode](http://chat.opensourcedesign.net/) - administered by @jancborchardt, @bnvk, and @garthdb
+* Website - opensourcedesign.net - administered by @jancborchardt
