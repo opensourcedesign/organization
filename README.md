@@ -47,6 +47,7 @@ Want to add yourself to this list? Do the following:
 * Send a pull request
 * Voila!
 
+<<<<<<< HEAD
 ---
 
 ## Community
@@ -67,3 +68,16 @@ Want to add yourself to this list? Do the following:
 ## Bylines
 
 ...to be added...
+=======
+Community
+=========
+
+Our community is spread across various services and maintained by various people. If you've got any questions about those services, please reach out to those people who can help.
+
+* GitHub (here) - [Administrators](https://github.com/orgs/opensourcedesign/teams/core)
+* Twitter - (https://twitter.com/opensrcdesign) - administered by @jancborchardt.
+* Facebook - (https://www.facebook.com/opensrcdesign/) - administered by @razetime.
+* Medium - (https://medium.com/open-source-design) - administered by @razetime, @plastelina, @rdbarlett
+* IRC - [#opensourcedesign on freenode](http://chat.opensourcedesign.net/) - administered by @jancborchardt, @bnvk, @garthdb
+* Website - opensourcedesign.net - administered by @jancborchardt.
+>>>>>>> Add Community Details
