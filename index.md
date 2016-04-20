@@ -1,5 +1,11 @@
-# Pros & Cons
+---
+layout: default
+title: Funding
+permalink: /funding/
+---
 
+
+## Pros & Cons
 
 This repo will grow to be something that discusses the pros & cons people in the FOSS space have encountered amongst the various funding options.
 
