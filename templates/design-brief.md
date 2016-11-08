@@ -1,9 +1,18 @@
 ## Target Audience
+
 The target audience of <REPO> is ...
 
-## Goals of the app/site
-#### short-term
-####long-term
+## Goals of The Job
+
+What do you hope to accomplish with the project you have submitted?
+
+#### Short Term
+
+-
+
+#### Long Term
+
+-
 
 ## Work needed
 
@@ -23,4 +32,12 @@ The target audience of <REPO> is ...
 
 ## Design Needs
 
-## How to contribute
+## Openness & Contributors
+
+Open Source Design is a different sort of community, and the Agency tries to
+make great use of this.
+
+- Work exlcusively with the designer / team you hire
+- Work "in the open" with only the community
+- Work with both a designer/team and community
+
