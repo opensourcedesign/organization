@@ -2,7 +2,7 @@
 layout: page
 title: Designer: Product, UI, UX, web.(hopefully a respectable dev at some point.)
 name: Gary Meyer
-github: @g4floyd
+github: g4floyd
 url: http://garydo.es
 tags: designer, iconographer, typesetter, photographer,
 status: available
