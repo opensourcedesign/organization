@@ -67,6 +67,5 @@ Our community is spread across various services and maintained by various people
 * Twitter - (https://twitter.com/opensrcdesign) - administered by @jancborchardt, @bnvk, and @simonv3
 * Facebook - (https://www.facebook.com/opensrcdesign/) - administered by @razetime
 * Medium - (https://medium.com/open-source-design) - administered by @razetime, @plastelina, @rdbarlett
-* Website - opensourcedesign.net - administered by @jancborchardt.
 * IRC - [#opensourcedesign on freenode](http://chat.opensourcedesign.net/) - administered by @jancborchardt, @bnvk, and @garthdb
 * Website - opensourcedesign.net - administered by @jancborchardt
