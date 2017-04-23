@@ -5,11 +5,24 @@ This is a repo for people interested in joining, helping run, and/or working
 as a part of the Open Source Design community. This respository is for things
 like
 
+- [Community](#community)
 - [Funding](#funding)
 - [People](#people)
 - [Contracts](#contracts)
 - [By-laws](#by-laws)
-- [Community](#community)
+
+---
+
+## Community
+
+Our community is spread across various services and maintained by various people. If you've got any questions about those services, please reach out to those people who can help.
+
+* [**🌐 Website opensourcedesign.net**](http://opensourcedesign.net) - domain controlled by [@jancborchardt](https://github.com/jancborchardt) [@bnvk](https://github.com/bnvk) [@ei8fdb](https://github.com/ei8fdb), see [domain contacts](https://github.com/opensourcedesign/organization/issues/84)
+* [**💻 GitHub @opensourcedesign**](https://github.com/opensourcedesign) - [administrators](https://github.com/orgs/opensourcedesign/people?utf8=%E2%9C%93&query=role%3Aowner+) are from [active contributors](https://github.com/opensourcedesign/organization/issues/63#issuecomment-293839577)
+* [**👥 Discourse forum**](https://discourse.opensourcedesign.net) - admins are [@evalica](https://github.com/evalica) [@jdittrich](https://github.com/jdittrich) [@grahamperrin](https://github.com/grahamperrin) [@studiospring](https://github.com/studiospring)  [@jancborchardt](https://github.com/jancborchardt) (limited to 5)
+* [**💬 Chat #opensourcedesign**](https://chat.opensourcedesign.net) - run by [@bnvk](https://github.com/bnvk) [@simonv3](https://github.com/simonv3) [@elioqoshi](https://github.com/elioqoshi)
+* [**🐦 Twitter @opensrcdesign**](https://twitter.com/opensrcdesign) - run by [@jancborchardt](https://github.com/jancborchardt) [@evalica](https://github.com/evalica) [@simonv3](https://github.com/simonv3) [@victoria-bondarchuk](https://github.com/victoria-bondarchuk) [@belenbarrospena](https://github.com/belenbarrospena) & other [active contributors](https://github.com/opensourcedesign/organization/issues/63#issuecomment-293839577)
+* [**💸 Open Collective for funding**](https://opencollective.com/opensourcedesign) - run by [contributors](https://opencollective.com/opensourcedesign#contributors)
 
 ---
 
@@ -43,7 +56,7 @@ Want to add yourself to this list? Do the following:
 
 * Sign in / up to Github
 * Fork this repository
-* Copy `person-template.md` into the `people` folder, so you have `people/your-name.md
+* Copy `person-template.md` into the `people` folder, so you have `people/your-name.md`
 * Send a pull request
 * Voila!
 
@@ -56,16 +69,3 @@ Want to add yourself to this list? Do the following:
 ## By-laws
 
 Please read our draft-in-progress [community by-laws](http://opensourcedesign.net/by-laws/)
-
----
-
-## Community
-
-Our community is spread across various services and maintained by various people. If you've got any questions about those services, please reach out to those people who can help.
-
-* GitHub - [Administrators](https://github.com/orgs/opensourcedesign/people?utf8=%E2%9C%93&query=role%3Aowner+)
-* Twitter - (https://twitter.com/opensrcdesign) - run by @jancborchardt and @simonv3
-* Facebook - (https://www.facebook.com/opensrcdesign/) - run by @razetime
-* Medium - (https://medium.com/open-source-design) - run by @razetime, @plastelina, @rdbarlett
-* Chat - [#opensourcedesign](http://chat.opensourcedesign.net) - run by @bnvk, @simonv3 @elioqoshi
-* Website - [opensourcedesign.net](http://opensourcedesign.net) - domain controlled by @jancborchardt
