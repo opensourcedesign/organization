@@ -2,7 +2,7 @@
 layout: page
 title: Aayush Arora, frontend developer.
 name: Aayush Arora
-github: @aayusharora
+github: aayusharora
 url: https://aayusharora.github.io/
 tags: web, javascript, angularjs, nodejs, jQuery, bootstrap, css, html, knockoutjs 
 status: available
