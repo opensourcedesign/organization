@@ -14,7 +14,7 @@ This repo will grow to be something that discusses the pros & cons people in the
 
 ### Crowdfunding vs. Grants
 
-This was a list of thoughts made by Greg Slepak [on Twitter](https://twitter.com/taoeffect/status/573600803383967744) based on his experiences applying for grants vs. crowdfunding. 
+This was a list of thoughts made by Greg Slepak [on Twitter](https://twitter.com/taoeffect/status/573600803383967744) based on his experiences applying for grants vs. crowdfunding.
 
 - Putting aside monetary considerations, crowd funding, IMO, treats everyone involved better than grant writing.
 - And even taking monetary considerations into account, on the whole, I think the crowd funding model provides more value to the world.
