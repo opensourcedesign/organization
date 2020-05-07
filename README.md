@@ -7,7 +7,6 @@ like
 
 - [Community](#community)
 - [Funding](#funding)
-- [People](#people)
 - [Contracts](#contracts)
 - [By-laws](#by-laws)
 
